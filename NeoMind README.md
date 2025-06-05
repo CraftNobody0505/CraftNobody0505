@@ -53,7 +53,7 @@
 
 我乐于探索新的技术和解决富有挑战性的问题。如果您对我的项目感兴趣，或者有合作机会，欢迎随时联系我！
 
-*   **📧 邮箱:** wangstiffler@gmail.com/382823537@qq.com
+*   **📧 email:** wangstiffler@gmail.com/382823537@qq.com
 *   **🌐 QQ:382823537
 <p align="center">
   <a href="https://github.com/YourUsername?tab=followers"><img src="https://img.shields.io/github/followers/YourUsername?style=social" alt="GitHub Followers"></a>
