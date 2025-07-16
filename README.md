@@ -1,4 +1,4 @@
-Hi there, I'm [Your Name / 你的名字] 👋
+Hi there, I'm [CraftNobody] 👋
 I'm a passionate self-taught developer and system thinker, driven by the synergy between human creativity and artificial intelligence.
 <br>
 我是一位充满热情的自学开发者和系统思考者，致力于探索人类创造力与人工智能之间的协同作用。
