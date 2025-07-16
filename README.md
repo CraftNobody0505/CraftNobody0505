@@ -8,11 +8,12 @@ In a 45-day sprint, I went from a programming novice to the creator of a sophist
 
 在一次为期45天的冲刺中，我从一名编程新手成长为一个复杂的AI驱动系统的创造者。通过与Google Gemini的紧密协作，我开发了 NL2Sim。这个框架证明了一个深刻的全新范式：创造复杂软件的核心壁垒，不再是数年的编码经验，而是构想的清晰度和驾驭AI的能力。
 
-🔭 What I'm Building | 我的项目
+### 🔭 What I'm Building | 我的项目
+
 <p align="center">
-<a href="https://www.google.com/search?q=https://github.com/CraftNobody0505/NL2Sim">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3FCraftNobody0505%3DCraftNobody0505%26repo%3DNL2Sim%26theme%3Dradical%26show_owner%3Dtrue" alt="NL2Sim Repository Pin">
-</a>
+  <a href="https://github.com/CraftNobody0505/NL2Sim">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CraftNobody0505&repo=NL2Sim&theme=radical&show_owner=true" alt="NL2Sim Repository Pin">
+  </a>
 </p>
 
 NL2Sim is a framework that translates natural language specifications into fully functional Simulink models. It has successfully generated complex systems including:
