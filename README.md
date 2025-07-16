@@ -11,7 +11,7 @@ In a 45-day sprint, I went from a programming novice to the creator of a sophist
 🔭 What I'm Building | 我的项目
 <p align="center">
 <a href="https://www.google.com/search?q=https://github.com/CraftNobody0505/NL2Sim">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DCraftNobody0505%26repo%3DNL2Sim%26theme%3Dradical%26show_owner%3Dtrue" alt="NL2Sim Repository Pin">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3FCraftNobody0505%3DCraftNobody0505%26repo%3DNL2Sim%26theme%3Dradical%26show_owner%3Dtrue" alt="NL2Sim Repository Pin">
 </a>
 </p>
 
