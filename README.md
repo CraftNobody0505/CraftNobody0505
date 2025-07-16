@@ -49,11 +49,13 @@ AI驱动应用的系统架构。
 
 人机协作从简单工具到真正创造性伙伴关系的演进。
 
-📫 Let's Connect | 联系我
+### 📫 Let's Connect | 联系我
+
 I'm always open to discussing new ideas, collaboration opportunities, or the future of AI in engineering.
 <br>
-我随时乐于讨论新的想法、合作机会，或AI在工程领域的未来。
+*我随时乐于讨论新的想法、合作机会，或AI在工程领域的未来。*
 
 <p align="left">
-<a href="mailto:wangstiffler@gmai.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/wangstiffler@gmail.com.email%40example.com-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgmail"></a>
-
+  <a href="mailto:wangstiffler@gmail.com"><img src="https://img.shields.io/badge/Email-wangstiffler@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email Badge"></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"></a>
+</p>
