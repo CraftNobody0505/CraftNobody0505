@@ -54,5 +54,5 @@ I'm always open to discussing new ideas, collaboration opportunities, or the fut
 我随时乐于讨论新的想法、合作机会，或AI在工程领域的未来。
 
 <p align="left">
-<a href="mailto:your.wangstiffler@gmai.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/wangstiffler@gmail.com.email%40example.com-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgmail"></a>
+<a href="mailto:wangstiffler@gmai.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/wangstiffler@gmail.com.email%40example.com-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgmail"></a>
 
